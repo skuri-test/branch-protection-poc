@@ -5,5 +5,5 @@ ROOT_DIR=$( cd $( dirname ${BASH_SOURCE:-$0} ) && pwd )
 echo "run test yey"
 env
 
-exit 1
+exit 0
 
