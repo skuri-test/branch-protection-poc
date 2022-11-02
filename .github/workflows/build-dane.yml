@@ -1,5 +1,5 @@
-name: build-noyatu
-run-name: ${{ github.actor }} is learning GitHub Actions
+name: build-noyatu sono 2
+run-name: ${{ github.actor }} is learning GitHub Actions dayo
 on: [push]
 jobs:
   sannity_check:
