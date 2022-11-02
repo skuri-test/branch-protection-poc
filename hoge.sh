@@ -24,3 +24,4 @@ done
 
 shift $(( OPTIND - 1 ));
 hoge
+hoge
