@@ -4,6 +4,7 @@ on: [push]
 jobs:
   sannity_check:
     runs-on: ubuntu-latest
+    name: bakamitai
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3

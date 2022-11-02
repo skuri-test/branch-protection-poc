@@ -3,6 +3,7 @@ run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
 jobs:
   sannity_check:
+    name: annity-check
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
