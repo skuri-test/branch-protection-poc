@@ -11,7 +11,7 @@ jobs:
     environment: 
       name: staging
       url: https://example.com?stating
-      hoge: fuga
+      #hoge: fuga
     steps:
       - name: deploy
         run: echo "setart deploying ${{ github.ref }}"
