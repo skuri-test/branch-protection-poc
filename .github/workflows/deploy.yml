@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: staging
-      url: https://example.com?stating
+      #url: https://example.com?stating
       #hoge: fuga
     steps:
       - name: deploy
