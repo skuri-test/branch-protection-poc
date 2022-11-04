@@ -9,7 +9,7 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     environment: 
-      name: hogenaru
+      name: production
       #url: https://example.com?stating
       #hoge: fuga
     steps:
