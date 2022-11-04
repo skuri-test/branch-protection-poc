@@ -14,4 +14,4 @@ jobs:
       #hoge: fuga
     steps:
       - name: deploy
-        run: echo "setart deploying ${{ github.ref }}"
+        run: echo "setart deploying ${{ github.ref }} wao"
