@@ -14,3 +14,6 @@
 # add kurihara2
 
 # add kurihara3
+
+aiueo
+aiueo
