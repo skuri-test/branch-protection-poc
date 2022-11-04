@@ -17,3 +17,6 @@
 
 aiueo
 aiueo
+hogenaru
+
+hogenaru
